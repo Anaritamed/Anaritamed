@@ -1,6 +1,6 @@
 <h2 data-importer="text" align="left">Oi, Ana Rita aqui :) 👋</h2>
 
-Graduanda em Ciência da Computação pela Universidade Federal de Campina Grande (UFCG), possuo mais de 2 anos de experiência em projetos de Pesquisa, Desenvolvimento e Inovação. Atualmente, trabalho em um módulo da reforma tributária, recém criado para um sistema fiscal já consolidado no mercado, utilizando princípio de SDD para desenvolvê-lo. Já liderei equipes em outras frentes desse projeto. Além disso, monitorei algumas disciplinas ao longo da graduação, dentre elas: Engenharia de Software, ATAL e Banco de Dados.
+Graduanda em Ciência da Computação pela Universidade Federal de Campina Grande (UFCG), possuo mais de 2 anos de experiência em projetos de Pesquisa, Desenvolvimento e Inovação. Atualmente, trabalho em um módulo da reforma tributária, recém criado para um sistema fiscal já consolidado no mercado, utilizando princípio de SDD para desenvolvê-lo. Já liderei equipes em outras frentes desse projeto. Além disso, monitorei algumas disciplinas ao longo da graduação, dentre elas: Engenharia de Software, ATAL - Análise e Técnicas de Algoritmos e Banco de Dados.
 
 ####
 
