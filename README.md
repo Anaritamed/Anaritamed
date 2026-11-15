@@ -2,6 +2,7 @@
 
 Graduanda em Ciência da Computação pela Universidade Federal de Campina Grande (UFCG), possuo mais de 2 anos de experiência em projetos de Pesquisa, Desenvolvimento e Inovação. Atualmente, trabalho em um módulo da reforma tributária, recém criado para um sistema fiscal já consolidado no mercado, utilizando princípio de SDD para desenvolvê-lo. Já liderei equipes em outras frentes desse projeto. Além disso, monitorei algumas disciplinas ao longo da graduação, dentre elas: Engenharia de Software, ATAL e Banco de Dados.
 
+####
 
 - 🔭 Atualmente bolsista em projeto PD&I na UFCG.
 - 🌱 Atualmente estudo e utilizo Spec-Driven Development em minhas atuações.
@@ -12,8 +13,8 @@ Graduanda em Ciência da Computação pela Universidade Federal de Campina Grand
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/anaritamed/anaritamed/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/anaritamed/anaritamed/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="profile/stats.svg" height="150" alt="stats graph"  />
+  <img src="profile/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -51,7 +52,7 @@ Graduanda em Ciência da Computação pela Universidade Federal de Campina Grand
 ###
 
 <div data-importer="socials" align="left">
-  <a href="anaritamedeirossouza@gmail.com" target="_blank">
+  <a href="mailto:anaritamedeirossouza@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/ana-rita-medeiros-de-souza/" target="_blank">
@@ -63,6 +64,6 @@ Graduanda em Ciência da Computação pela Universidade Federal de Campina Grand
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/anaritamed/anaritamed/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="profile/snake.svg" alt="Snake animation" />
 
 ###
