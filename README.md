@@ -18,7 +18,7 @@ Graduanda em Ciência da Computação pela Universidade Federal de Campina Grand
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG9yMDJ0cDFpbXdnMGs5MzE3bG9zYXBrYW10dXl1Y2NvNno1cXE4cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMcB8XospGZO8UQq87/giphy.gif"  />
+<img data-importer="image" align="right" height="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG9yMDJ0cDFpbXdnMGs5MzE3bG9zYXBrYW10dXl1Y2NvNno1cXE4cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMcB8XospGZO8UQq87/giphy.gif"  />
 
 ###
 
